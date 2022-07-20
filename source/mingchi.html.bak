@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<script type="text/JavaScript">
+<!--
+function MM_controlSound(x, _sndObj, sndFile) { //v3.0
+  var i, method = "", sndObj = eval(_sndObj);
+  if (sndObj != null) {
+    if (navigator.appName == 'Netscape') method = "play";
+    else {
+      if (window.MM_WMP == null) {
+        window.MM_WMP = false;
+        for(i in sndObj) if (i == "ActiveMovie") {
+          window.MM_WMP = true; break;
+      } }
+      if (window.MM_WMP) method = "play";
+      else if (sndObj.FileName) method = "run";
+  } }
+  if (method) eval(_sndObj+"."+method+"()");
+  else window.location = sndFile;
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.STYLE1 {
+	color: #FF0000;
+	font-size: xx-large;
+	font-weight: bold;
+}
+.STYLE2 {
+	font-size: x-large;
+	color: #FF0000;
+	font-weight: bold;
+}
+-->
+</style>
+<link href="source/link.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="91%" height="151" border="0" cellpadding="0" cellspacing="1">
+  <tr>
+    <td width="12%"><embed src="sounds/煎鱼.mp3" width="32" height="32"></embed>
+      <img src="images/la_logo.jpg" width="144" height="107" /></td>
+    <td width="88%"><div align="center">
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="400" height="150" align="middle">
+        <param name="movie" value="湖南美食.swf" />
+        <param name="quality" value="high" />
+        <embed src="湖南美食.swf" width="400" height="150" align="middle" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></embed>
+      </object>
+    </div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="1252" height="154" border="0" cellpadding="0" cellspacing="1">
+  <tr>
+    <td width="428"><div align="right"><span class="STYLE1">先来一张小吃合集解解馋</span></div></td>
+    <td width="821"><div align="right"><img src="images/小吃合集.gif" width="509" height="286" /></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="1254" height="175" border="0" cellpadding="0" cellspacing="1">
+  <tr>
+    <td width="423"><p align="center"><img src="images/臭豆腐.jpg" width="292" height="220" /></p>
+    <p align="center">（臭豆腐）</p></td>
+    <td width="828"><p class="STYLE2">&nbsp; &nbsp;长沙的臭豆腐要数百年老店火宫殿最有名，进火宫殿的人没有不吃臭豆腐</p>
+    <p class="STYLE2">的。1958年，毛泽东到长沙视察时，还专门到火宫殿吃了一顿臭豆腐。火宫</p>
+    <p class="STYLE2">殿的臭豆腐是用优质浏阳豆豉加冬笋、香菇、曲酒等煮制的卤水点成的，炸</p>
+    <p class="STYLE2">好的臭豆腐外脆里嫩，再浇上辣椒油、香油、酱油等调料，非常好吃。</p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="1256" height="175" border="0" cellpadding="0" cellspacing="1">
+  <tr>
+    <td width="822" class="STYLE2">&nbsp; &nbsp;
+    <p>&nbsp; &nbsp;口味虾，又名麻辣小龙虾、长沙口味虾、香辣小龙虾等，是湖南省著名</p>
+    <p>的传统小吃，以小龙虾制成，口味辣鲜香，色泽红亮，质地滑嫩，滋味香</p>
+    <p>辣。20世纪末开始传遍全国，成为人们夏夜街边啤酒摊的经典小吃。</p></td>
+    <td width="431"><div align="left">
+      <p align="center"><img src="images/小龙虾.jpg" width="400" height="264" /></p>
+      <p align="center">（口味虾）</p>
+    </div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="1257" height="181" border="0" cellpadding="0" cellspacing="1">
+  <tr>
+    <td width="547"><p align="center"><img src="images/嗦螺.jpg" width="500" height="333" /></p>
+    <p align="center">（嗦螺）</p></td>
+    <td width="707"><blockquote>
+      <p class="STYLE2"> &nbsp;&nbsp;一种地方风味小吃。又名“喝螺”。制法为：选大小均匀之田螺或石螺置于清水盆中，滴茶油小许，使之吐   出杂质污物。二、三天后，用冷水洗净，将瘦猪肉泥掺水拌匀，倒入盆中，使螺饱食，再钳去螺尾，加盐少许反复搓洗干净，置炒锅内旺火翻炒，   待水分稍干，加茶油再炒，至香味四溢，螺口掩皮脱落，再加盐和绍酒复炒，起锅后，与生姜、辣椒、酱油。葱蒜、味精等佐料一道入骨清汤锅中   盖煮。食时舀出，手持将螺口对住嘴，吸气唆（喝）取，螺肉即人，故名“唆（喝）螺”。本品汤鲜味美，清香脆嫩，清火开胃，爽口宜人。</p>
+    </blockquote></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="STYLE2">当然，湖南的小吃还不止这些。</p>
+<p class="STYLE2">如果你玩累的了，不妨在街头稍作休息，一起来品尝这些美食吧！</p>
+<p class="STYLE2">&nbsp;</p>
+<p align="right" class="STYLE2"><a href="index.html">返回主页</a></p>
+</body>
+</html>
